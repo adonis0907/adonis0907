@@ -30,13 +30,3 @@ I ❤️ also open-source and discuss each other.
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=adonis0907&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adonis0907&layout=compact&theme=dark&hide_border=true" /> |
 | ------------- | ------------- |
-
-#### Top Repositories
-
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adonis0907&repo=github-readme-stats&theme=dark" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adonis0907&repo=anuraghazra.github.io&theme=dark" />
-</a>
