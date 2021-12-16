@@ -28,4 +28,15 @@ I ❤️ also open-source and discuss each other.
 
 **My Stats**
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adonis0907&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adonis0907&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=adonis0907&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adonis0907&layout=compact&theme=dark&hide_border=true" /> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adonis0907&repo=github-readme-stats&theme=dark" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adonis0907&repo=anuraghazra.github.io&theme=dark" />
+</a>
