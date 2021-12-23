@@ -30,5 +30,5 @@ I ❤️ also open-source and discuss each other.
 
 **My Stats**
 
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adonis0907)](https://git.io/streak-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adonis0907&layout=compact&theme=dark&hide_border=true" /> |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adonis0907&theme=dark)](https://git.io/streak-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adonis0907&layout=compact&theme=dark&hide_border=true" /> |
 | ------------- | ------------- |
