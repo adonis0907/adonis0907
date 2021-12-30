@@ -4,8 +4,6 @@
 
 ## I am a professional MERN Stack and blockchain developer.
 
-I am new freelancer on upwork.com, but I have ever worked in many job sites.
-
 Until now, I have built many 🌐 & 📱 apps and NFT marketplaces and a lot of Swap sites in Solana network and Ethereum network using solidity & Smart Contract & truffle and Remix & Web3 and MERN stack.<br/>
 I 💖 React.js in front-end libraries and frameworks.
 
