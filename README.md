@@ -1,4 +1,4 @@
-<img align="fluid" alt="Banner" src="https://i.ibb.co/z7R9tFj/banner.png" />
+<img align="fluid" alt="Banner" src="https://ibb.co/pzt8pDx/banner.png" />
 
 <p align="center">😍Please set dark theme to look more beautiful.😍</p>
 
