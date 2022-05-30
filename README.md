@@ -2,9 +2,9 @@
 
 <p align="center">😍Please set dark theme to look more beautiful.😍</p>
 
-## Professional MERN Stack and blockchain developer is waiting for you.
+## Professional Full Stack Web and blockchain developer is waiting for you.
 
-Until now, I have built many 🌐 & 📱 apps and NFT marketplaces and a lot of Swap sites in Solana network and Ethereum network using solidity & Smart Contract & truffle and Remix & Web3 and MERN stack.<br/>
+Until now, I have built many 🌐 & 📱 apps and NFT marketplaces and a lot of Swap sites in Solana network and Ethereum network using solidity & Smart Contract & truffle and Remix & Web3 and Full web stack.<br/>
 I 💖 React.js in front-end libraries and frameworks.
 
 **Why React.js?**
